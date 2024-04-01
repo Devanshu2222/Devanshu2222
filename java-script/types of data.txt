@@ -1,0 +1,15 @@
+============data types in javascript============= 
+number 
+boolean 
+string 
+undefined 
+null 
+bigint 
+symbol 
+===========numbers==============
+number contain all the intergr value float decimal value all positive and negetive values
+number have a limited value like if you add0.99999999999999999 the output will be 
+=============operations=============
+operand jispe operation form ho raha hai
+remainder operator known as modulo operator 
+power operator known as ex

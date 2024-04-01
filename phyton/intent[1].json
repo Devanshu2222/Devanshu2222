@@ -1,0 +1,135 @@
+
+{
+    "intents": [
+
+        
+        {
+            "tag":"greeting",
+            "patterns":["hello","hii","hey","wake up","jarvis"
+            ],
+            "responses":["Hello Sir","How Are You Sir.","Always For You Sir",
+                "Hello","Here's Your Assistant."
+            ]
+        },
+        {
+            "tag":"bye",
+            "patterns":["bye","goodbye","see you later","sleep","exit"
+            ],
+            "responses":["Bye.","I am Going.","Bye Sir.","Good Bye",
+                "It'll be Nice To Meet You Again.","See You Later"
+            ]
+        },
+        {
+            "tag":"health",
+            "patterns":["how are you","how you","are you fine?","are you good"
+            ],
+            "responses":["Fine.","Perfect.","Cool.",
+                "Like You.","Are you Fine? I'm Fine."
+            ]
+        },
+        {
+            "tag":"personal",
+            "patterns":["naam kya hai tumhara","what is your name","your name","who are you"
+            ],
+            "responses":["Jarvis","your personal AI.","this is Jarvis sir",
+                "unlike human i'm just an ai.","this is jarvis, Are you Fine?"
+            ]
+        },
+        {
+            "tag": "age",
+            "patterns": [
+                "how old are you","when were you made","what is your age"
+            ],
+            "responses": [
+                "I was made in 2023, if that's what you are asking!"
+            ]
+        },
+        {
+            "tag": "time",
+            "patterns": [
+                "time btao","samay batao","what's the time"
+            ],
+            "responses": [
+                "time"
+            ]
+        },
+        {
+            "tag": "date",
+            "patterns": [
+                "date","tareek","what is the date today"
+            ],
+            "responses": [
+                "date"
+            ]
+        },
+        {
+            "tag": "day",
+            "patterns": [
+                "what is day today","aaj konsa din hai","jarvis today is"
+            ],
+            "responses": [
+                "day"
+            ]
+        },
+        {
+            "tag": "music ",
+            "patterns": [
+                "play any song","media player on laptop","mein se","random song","music sunao","on"
+            ],
+            "responses": [
+                "music"
+            ]
+        },
+        {
+            "tag": "virtual studio",
+            "patterns": [
+                "lets code","open vscode","open my studio","need to do some optimization in you"
+            ],
+            "responses": [
+                "virtual studio"
+            ]
+        },
+        {
+            "tag": "whatsapp",
+            "patterns": [
+                "whatsapp","whatsapp web","chatting"
+            ],
+            "responses": [
+                "whatsapp"
+            ]
+        },
+        {
+            "tag": "telegram",
+            "patterns": ["show telegram","telegram bot","save image on telegram","send image on telegram","check my telegram"],
+            "responses": ["telegram"]
+        },
+        {
+            "tag": "instagram",
+            "patterns": ["insta","upload","instagram","reels","pic", "like a post","post", "share","follow a user"],
+            "responses": ["instagram"]
+        },
+        {
+            "tag": "location",
+            "patterns": ["my location", "locate me","find me","find my","dhundh mujhe","merko dhundho","location bata","location kya hai neri"],
+            "responses": ["location"]
+        },
+        {
+            "tag": "screenshot",
+            "patterns": ["screen", "ss", "take screen","take screen shot","take ss"],
+            "responses": ["screenshot"]
+        },
+        {
+            "tag": "github",
+            "patterns": ["github","github khol mera", "repository", "github page","kar github par","source code","data science","project"],
+            "responses": ["github"]
+        },
+        {
+            "tag": "alarm",
+            "patterns": ["alarm","set alarm", "subha", "utha dena","5 bje","utha dio","mera alarm set"],
+            "responses": ["alarm"]
+        }
+        
+    ]
+}
+
+

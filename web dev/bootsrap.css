@@ -1,0 +1,11 @@
+
+.heading
+{
+    text-align: center;
+}
+.grid-container
+{
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+}
